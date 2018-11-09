@@ -7,6 +7,7 @@
   "require": {
     "php": ">=7.1",
     "spryker/oms": "^8.3.2",
+    "spryker/orders-rest-api": "^1.1.0",
     "spryker/sales": "^8.16.1",
     "spryker/sales-quantity": "^1.0.1",
     "spryker/sales-split": "^3.0.5"
