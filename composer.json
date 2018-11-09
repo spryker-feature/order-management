@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/order-management",
+  "description": "Order Management [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/oms": "^8.3.2",
+    "spryker/sales": "^8.16.1",
+    "spryker/sales-quantity": "^1.0.1",
+    "spryker/sales-split": "^3.0.5"
+  }
+}
