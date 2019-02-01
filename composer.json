@@ -10,5 +10,10 @@
     "spryker/sales": "^8.17.0",
     "spryker/sales-quantity": "^1.0.1",
     "spryker/sales-split": "^3.0.5"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
