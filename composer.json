@@ -7,10 +7,10 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker/oms": "^8.5.0",
-    "spryker/sales": "^8.18.0",
-    "spryker/sales-quantity": "^1.1.0",
-    "spryker/sales-split": "^3.0.5"
+    "spryker/oms": "^9.0.0",
+    "spryker/sales": "^9.0.0",
+    "spryker/sales-quantity": "^2.0.0",
+    "spryker/sales-split": "^4.0.0"
   },
   "extra": {
     "branch-alias": {
