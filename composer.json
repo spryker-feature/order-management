@@ -9,6 +9,7 @@
     "php": ">=7.2",
     "spryker/oms": "^11.0.0",
     "spryker/sales": "^11.0.0",
+    "spryker/sales-data-export": "^0.1.0",
     "spryker/sales-quantity": "^3.0.0",
     "spryker/sales-split": "^5.0.0"
   },
