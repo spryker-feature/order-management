@@ -7,6 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
+    "spryker-shop/order-cancel-widget": "^1.0.0",
     "spryker/oms": "^11.0.0",
     "spryker/sales": "^11.0.0",
     "spryker/sales-data-export": "^0.1.0",
