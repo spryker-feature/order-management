@@ -10,7 +10,7 @@
     "spryker-shop/order-cancel-widget": "^1.0.0",
     "spryker/oms": "^11.0.0",
     "spryker/sales": "^11.0.0",
-    "spryker/sales-data-export": "^0.1.0",
+    "spryker/sales-data-export": "^0.2.0",
     "spryker/sales-invoice": "^1.0.0",
     "spryker/sales-quantity": "^3.0.0",
     "spryker/sales-split": "^5.0.0"
