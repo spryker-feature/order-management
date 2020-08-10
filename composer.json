@@ -9,6 +9,7 @@
     "php": ">=7.2",
     "spryker-shop/order-cancel-widget": "^1.0.0",
     "spryker/oms": "^11.0.0",
+    "spryker/oms-multi-thread": "^1.0.0",
     "spryker/sales": "^11.0.0",
     "spryker/sales-data-export": "^0.2.0",
     "spryker/sales-invoice": "^1.0.1",
