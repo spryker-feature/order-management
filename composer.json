@@ -1,27 +1,29 @@
 {
-  "name": "spryker-feature/order-management",
-  "description": "Order Management [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/order-cancel-widget": "^1.0.0",
-    "spryker-shop/order-custom-reference-widget": "^1.0.0",
-    "spryker/oms": "^11.14.0",
-    "spryker/order-custom-reference": "^1.0.0",
-    "spryker/order-custom-reference-gui": "^1.0.0",
-    "spryker/sales": "^11.17.0",
-    "spryker/sales-data-export": "^0.2.0",
-    "spryker/sales-invoice": "^1.1.0",
-    "spryker/sales-oms": "^0.1.0",
-    "spryker/sales-quantity": "^3.1.0",
-    "spryker/sales-split": "^5.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/order-management",
+    "description": "Order Management [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/order-cancel-widget": "^1.0.0",
+        "spryker-shop/order-custom-reference-widget": "^1.0.0",
+        "spryker/oms": "^11.14.0",
+        "spryker/order-custom-reference": "^1.0.0",
+        "spryker/order-custom-reference-gui": "^1.0.0",
+        "spryker/sales": "^11.17.0",
+        "spryker/sales-data-export": "^0.2.0",
+        "spryker/sales-invoice": "^1.1.0",
+        "spryker/sales-oms": "^0.1.0",
+        "spryker/sales-payment": "^1.0.0",
+        "spryker/sales-payment-gui": "^1.0.0",
+        "spryker/sales-quantity": "^3.1.0",
+        "spryker/sales-split": "^5.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
