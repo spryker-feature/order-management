@@ -20,4 +20,5 @@ composer require spryker-feature/order-management
 - [SalesInvoiceExtension ^1.0.0](https://github.com/spryker/sales-invoice-extension) (Extension)
 - [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)
 - [SalesPaymentExtension ^1.0.0](https://github.com/spryker/sales-payment-extension) (Extension)
+- [SalesQuantityExtension ^1.0.0](https://github.com/spryker/sales-quantity-extension) (Extension)
 - [StockSalesConnector ^5.0.0](https://github.com/spryker/stock-sales-connector) (Connector)
