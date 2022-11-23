@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/order-cancel-widget": "^1.1.0",
         "spryker-shop/order-custom-reference-widget": "^1.0.0",
         "spryker/oms": "^11.21.0",
