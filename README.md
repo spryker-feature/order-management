@@ -9,7 +9,7 @@ composer require spryker-feature/order-management
 ```
 
 ## Optional modules
-- [CommentSalesConnector ^1.0.0](https://github.com/spryker/comment-sales-connector) (Connector)
+- [CommentSalesConnector ^1.1.0](https://github.com/spryker/comment-sales-connector) (Connector)
 - [CompanyBusinessUnitSalesConnector ^1.1.0](https://github.com/spryker/company-business-unit-sales-connector) (Connector)
 - [CompanySalesConnector ^1.1.0](https://github.com/spryker/company-sales-connector) (Connector)
 - [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
@@ -21,6 +21,6 @@ composer require spryker-feature/order-management
 - [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)
 - [SalesOrdersBackendApi ^0.1.0](https://github.com/spryker/sales-orders-backend-api) (Glue Backend)
 - [SalesOrdersBackendApiExtension ^0.1.0](https://github.com/spryker/sales-orders-backend-api-extension) (Extension)
-- [SalesPaymentExtension ^1.0.0](https://github.com/spryker/sales-payment-extension) (Extension)
+- [SalesPaymentExtension ^1.1.0](https://github.com/spryker/sales-payment-extension) (Extension)
 - [SalesQuantityExtension ^1.0.0](https://github.com/spryker/sales-quantity-extension) (Extension)
 - [StockSalesConnector ^5.0.0](https://github.com/spryker/stock-sales-connector) (Connector)
