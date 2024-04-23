@@ -11,7 +11,7 @@ composer require spryker-feature/order-management
 ```
 
 ## Optional modules
-- [CommentSalesConnector ^1.1.0](https://github.com/spryker/comment-sales-connector) (Connector)
+- [CommentSalesConnector ^1.2.0](https://github.com/spryker/comment-sales-connector) (Connector)
 - [CompanyBusinessUnitSalesConnector ^1.1.0](https://github.com/spryker/company-business-unit-sales-connector) (Connector)
 - [CompanySalesConnector ^1.1.0](https://github.com/spryker/company-sales-connector) (Connector)
 - [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
