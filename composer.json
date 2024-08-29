@@ -12,6 +12,8 @@
         "spryker/oms": "^11.31.0",
         "spryker/order-custom-reference": "^1.0.0",
         "spryker/order-custom-reference-gui": "^1.0.0",
+        "spryker/order-matrix": "^1.0.0",
+        "spryker/order-matrix-gui": "^1.0.0",
         "spryker/sales": "^11.47.0",
         "spryker/sales-data-export": "^0.2.0",
         "spryker/sales-invoice": "^1.4.0",
@@ -23,7 +25,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202404.x-dev"
+            "dev-master": "202407.x-dev"
         }
     }
 }
