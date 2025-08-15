@@ -17,7 +17,7 @@
         "spryker/sales": "^11.72.0",
         "spryker/sales-data-export": "^0.2.0",
         "spryker/sales-invoice": "^1.4.0",
-        "spryker/sales-oms": "^0.1.0",
+        "spryker/sales-oms": "^0.1.4",
         "spryker/sales-payment": "^1.14.0",
         "spryker/sales-payment-gui": "^1.1.0",
         "spryker/sales-quantity": "^3.5.0",
@@ -25,7 +25,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     }
 }
