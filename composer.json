@@ -9,6 +9,7 @@
         "php": ">=8.2",
         "spryker-shop/order-cancel-widget": "^1.1.0",
         "spryker-shop/order-custom-reference-widget": "^1.1.0",
+        "spryker/lock": "^1.0.0",
         "spryker/oms": "^11.47.0",
         "spryker/order-custom-reference": "^1.2.0",
         "spryker/order-custom-reference-gui": "^1.0.0",
