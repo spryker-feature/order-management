@@ -17,7 +17,7 @@ composer require spryker-feature/order-management
 - [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
 - [OmsExtension](https://github.com/spryker/oms-extension) (Extension)
 - [OmsRestApi ^0.1.0](https://github.com/spryker/oms-rest-api) (Legacy Glue)
-- [OrdersRestApi ^4.13.0](https://github.com/spryker/orders-rest-api) (Legacy Glue)
+- [OrdersRestApi ^4.16.0](https://github.com/spryker/orders-rest-api) (Legacy Glue)
 - [OrdersRestApiExtension ^1.1.0](https://github.com/spryker/orders-rest-api-extension) (Extension)
 - [SalesInvoiceExtension ^1.0.0](https://github.com/spryker/sales-invoice-extension) (Extension)
 - [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)
